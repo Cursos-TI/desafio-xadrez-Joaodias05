@@ -22,6 +22,18 @@ int main() {
         printf("Casa %d: Esquerda\n", i);
         i++;
     } while (i <= 8);
+
+printf("Movimento do cavalo:\n");
+        for (int i = 0; i < 2; i++)
+        {
+            printf("Cima\n");
+        }
+        int j = 1;
+        while (j <= 1)
+        {
+            printf("Esquerda\n");
+            j++;
+        }
 }
 
 
